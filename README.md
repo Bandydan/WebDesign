@@ -1,6 +1,6 @@
 # WebDesign
-First five lessons are provided by Olga Kormyshova, telegram  @olga_kormyshova
-3,4,5 are provided by Alexey Petrenko git @Ap_Design
+- First five lessons are provided by Olga Kormyshova, telegram  @olga_kormyshova
+- 3,4,5 are provided by Alexey Petrenko git @Ap_Design
 ## WebDesign blocks
 1. [Adobe Photoshop](https://github.com/Bandydan/WebDesign/tree/master/WD-1)
 2. Compositions, Typography, Brandguidelines 
