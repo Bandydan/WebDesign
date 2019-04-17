@@ -11,7 +11,7 @@
   
   
   [что такое портрет целевой аудитории можно прочесть здесь](https://www.insales.ru/blogs/university/portret-celevoj-auditorii)
-  [примеры персон] 
-  (https://drive.google.com/file/d/1uaEfgsRXAPLfVbGZb_8gJvpZT406cYkG/view?usp=sharing)
-  (https://drive.google.com/file/d/12_ORZeRYVYRMM8CMXedEkC9tcCgCSIRX/view?usp=sharing)
+  примеры персон 
+  [пример 1](https://drive.google.com/file/d/1uaEfgsRXAPLfVbGZb_8gJvpZT406cYkG/view?usp=sharing)
+  [пример 2](https://drive.google.com/file/d/12_ORZeRYVYRMM8CMXedEkC9tcCgCSIRX/view?usp=sharing)
   
