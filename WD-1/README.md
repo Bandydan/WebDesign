@@ -6,5 +6,5 @@ First five lessons are provided by Olga Kormyshova, telegram  @olga_kormyshova
 3. Adobe Photoshop: [трансформирование, режимы наложения](WD-1-3.md)
 4. Adobe Photoshop: [растровые и векторные изображения и их размеры](WD-1-4.md)
 5. Adobe Photoshop: [фигуры, плашки, кнопки, контролы и инпуты](WD-1-5.md)
-6. Практика
+6. [Практика](WD-1-practice.md)
 7. МОДУЛЬ 1
