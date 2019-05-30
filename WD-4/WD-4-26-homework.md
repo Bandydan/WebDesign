@@ -5,7 +5,7 @@
 Или сделать свой в Illustrator. Цветовую схему можно собрать в [Color Wheel](https://color.adobe.com/create)
 
 # Базовый
-1. Спроектировать в Figma ваш Walkthrough / Onboarding (3 экрана)
+1. Спроектировать в Figma ваш Walkthrough / Onboarding (3 экрана). [Тут много примеров](https://pin.it/ilr3cn6y6yp6nj)
 2. Проверить в Figma Mirror на девайсе.
 
 # Профи (только если выполнили Легкий и Базовый)
