@@ -1,5 +1,5 @@
 # Легкий уровень
-1. Изучить свою тему из [файла](https://docs.google.com/spreadsheets/d/18beQDcGBe-bKfclLO-zCPM-OidG8A9HCLiFPeVqTP-8/edit?usp=sharing) 
+1. Изучить свою тему из [файла](https://docs.google.com/spreadsheets/d/1nA0fU5fuOtIl_wS3MUbzfNDzSSssfIl7moUym8a46NM/edit?usp=sharing) 
 2. Провести ресерч темы
 3. Подготовить репорт (doc, pdf, xls): в свою папку с ДЗ на диске 
 > В репорте должна раскрываться проблема стоящая перед пользователем. 
