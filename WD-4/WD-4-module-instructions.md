@@ -27,4 +27,5 @@
 
 2) ваш проект должен быть виден для всех:
 ![Step02](/images/2019/04/module-4/privacy02.jpeg)
+### Project Visibility - everyone
 ![Step03](/images/2019/04/module-4/privacy03.jpeg)
