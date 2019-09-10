@@ -17,4 +17,14 @@
 ![Step1](/images/2019/04/module-4/3.jpeg)
 
 2) копируем данную ссылку в табличку модульного контроля
-![Step1](/images/2019/04/module-4/3.jpeg)
+![Step1](/images/2019/04/module-4/3.jpeg
+
+## ВАЖНО!
+Настройки видимости вашего проекта:
+
+1) в режиме Edit Project важно, что бы галка Adult content был снята:
+![Step01](/images/2019/04/module-4/privacy01.jpeg)
+
+2) ваш проект должен быть виден для всех:
+![Step02](/images/2019/04/module-4/privacy02.jpeg)
+![Step03](/images/2019/04/module-4/privacy03.jpeg)
